@@ -42,3 +42,15 @@ Features:
 - Oled display - welcome message and what has been typed
  
 So far this will make it work but there is a lot of room for improvement once I am able to put some actual effort into the code.
+  
+----------BOM-------------
+ 
+Required Materials:
+- Seeed XIAO RP2040 
+- MX-Style switches (x6)
+- 0.91 inch OLED display
+- Blank DSA keycaps (x6)
+- SK6812 MINI-E LEDs (x2)
+- M3x16mm screws (x4)
+- M3x5mx4mm heatset inserts (x4)
+- 3D Printed Case
