@@ -15,7 +15,7 @@ I first built the guide board to figure it out. With what I learned, and some pl
 <img width="512" height="442" alt="imagen" src="https://github.com/user-attachments/assets/68b0ae94-0a73-40c0-b292-5b54e312664b" />
 (Latest Version of Schematic)
 
-<img width="856" height="810" alt="imagen" src="https://github.com/user-attachments/assets/91d7606f-94e7-4dfc-b9df-3d70d72fdb56" />
+<img width="512" height="442" alt="imagen" src="https://github.com/user-attachments/assets/91d7606f-94e7-4dfc-b9df-3d70d72fdb56" />
 (Not Exactly the Latest Version but all is the same exept a few dimensions)
 
 --------------CAD---------------
@@ -24,7 +24,7 @@ The guide called for Fusion 360 but im on a low power laptop and have more exper
 
 I started with the bottom and designed it with the dimesnions of my pcb and added a hole for the usb-c where I designed it to be.
 
-<img width="897" height="702" alt="imagen" src="https://github.com/user-attachments/assets/2bd792a7-dbc7-47ab-84a4-0239ba528158" />
+<img width="512" height="442" alt="imagen" src="https://github.com/user-attachments/assets/2bd792a7-dbc7-47ab-84a4-0239ba528158" />
 
 After the bottom was completed I designed the top with the key switch layout holes and holes for the Oled and LEDs. I also added some text and made sure the screw holes lined up properlly.
 
