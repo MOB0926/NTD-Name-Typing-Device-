@@ -35,14 +35,17 @@ Edit - 1/7/26
 I realized a few days later that ther was a mesage on my project asking for a 3d render of my project. 
 
 At the time I was traveling so I could not edit but now that I can I realized that the case was ALL WRONG so I changed a few dimensions and now it works.
-
+     
 *Case Top
+     
 <img width="585" height="551" alt="image" src="https://github.com/user-attachments/assets/6328d1d7-d386-4ecf-b0dc-b3a3b02752eb" />
-
+     
 *Case Bottom
+     
 <img width="656" height="613" alt="image" src="https://github.com/user-attachments/assets/f1940c0c-7a45-48f7-b6ce-638d8fc462d2" />
-
+    
 *3D Render
+    
 <img width="648" height="585" alt="image" src="https://github.com/user-attachments/assets/e4776425-433e-4484-9e00-6c1f1cd8f186" />
  
  ----------Firmware-----------
