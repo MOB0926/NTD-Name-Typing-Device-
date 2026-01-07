@@ -3,7 +3,7 @@
 This is my attempt at this project. I set out to get my hands on FREE components but then quickly realized this was no easy task. At first I stuck to the templete, but it got boring (quckly). I then put my brain to work and came to the briliant idea of a macropad that types my name. And so the NTD-V1 (Name-Typing-Device) was born.
 
   
---------------PCB----------------
+# PCB
  
 I mostly followed the guide for this but restarted it a few times as my own Ideas came into play.
  
@@ -18,7 +18,7 @@ I first built the guide board to figure it out. With what I learned, and some pl
 <img width="512" height="442" alt="imagen" src="https://github.com/user-attachments/assets/91d7606f-94e7-4dfc-b9df-3d70d72fdb56" />
 
    
---------------CAD---------------
+# CAD
  
 The guide called for Fusion 360 but im on a low power laptop and have more experience in Onshape, so I designed my Case there.
  
@@ -48,7 +48,7 @@ At the time I was traveling so I could not edit but now that I can I realized th
     
 <img width="648" height="585" alt="image" src="https://github.com/user-attachments/assets/e4776425-433e-4484-9e00-6c1f1cd8f186" />
  
- ----------Firmware-----------
+#Firmware
  
 For programing im mostly clueless, so I had a lot of help from Chat GPT. I honestly have no clue if this works untill it works or spits out a lot of errors.
  
@@ -60,7 +60,7 @@ Features:
  
 So far this will make it work but there is a lot of room for improvement once I am able to put some actual effort into the code.
   
-----------BOM-------------
+# BOM
  
 Required Materials:
 - Seeed XIAO RP2040 
