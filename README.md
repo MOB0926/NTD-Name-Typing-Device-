@@ -47,11 +47,11 @@ At the time I was traveling so I could not edit but now that I can I realized th
 *3D Render
     
 <img width="512" height="442" alt="image" src="https://github.com/user-attachments/assets/e4776425-433e-4484-9e00-6c1f1cd8f186" />
-    
+   
+*3D Render with components (No Keycaps B/C I could only find stl files and they ruined the vibe + I put a lot of work into finding key switches and placing them)
+   
 <img width="512" height="442" alt="image" src="https://github.com/user-attachments/assets/f5197c64-2eae-489c-aa7d-552d5737efd6" />
-     
-*3D Render with components
- 
+       
 #Firmware
  
 For programing im mostly clueless, so I had a lot of help from Chat GPT. I honestly have no clue if this works untill it works or spits out a lot of errors.
