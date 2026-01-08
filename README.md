@@ -52,7 +52,7 @@ At the time I was traveling so I could not edit but now that I can I realized th
    
 <img width="512" height="442" alt="image" src="https://github.com/user-attachments/assets/f5197c64-2eae-489c-aa7d-552d5737efd6" />
        
-#Firmware
+# Firmware
  
 For programing im mostly clueless, so I had a lot of help from Chat GPT. I honestly have no clue if this works untill it works or spits out a lot of errors.
  
