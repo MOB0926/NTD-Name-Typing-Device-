@@ -60,10 +60,25 @@ The srcipt is in python, and will be used with CircuitPython and kmk to power th
  
 Features:
 - Inputs from the key switches
-- Oled display - welcome message and what has been typed
+- Oled display - welcome message ("Welcome to NTD")
  
 So far this will make it work but there is a lot of room for improvement once I am able to put some actual effort into the code.
   
+# Final Build
+
+picture
+
+# Design Flaws
+
+As per every design there are flaws.
+- Only types my name
+- LED wrong footprint (Still works though)
+- Case design in general
+    - LED holes in wrong location
+    - Inproper space for key-caps to fully go down and grab on
+    - USB slot way to short (So the case is not fully screwed down to acomodate)
+- No PCB mounting holes (Its fine but would be nicer)
+
 # BOM
  
 Required Materials:
@@ -72,6 +87,6 @@ Required Materials:
 - 0.91 inch OLED display
 - Blank DSA keycaps (x6)
 - SK6812 MINI-E LEDs (x2)
-- M3x16mm screws (x4)
+- M3x8mm screws (x4)
 - M3x5mx4mm heatset inserts (x4)
 - 3D Printed Case
