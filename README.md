@@ -66,7 +66,7 @@ So far this will make it work but there is a lot of room for improvement once I 
   
 # Final Build
 
-picture
+<img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/e09db403-921b-4ced-92a7-02fa59688f87" />
 
 # Design Flaws
 
